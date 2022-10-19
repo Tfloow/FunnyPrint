@@ -1,3 +1,5 @@
+# for highercase
+
 test = [["       \t"],["      \t"],["  ___ \t"], [" / \t"], [" \___\t"]]
 lowerTemplate = [["       \t"],["      \t"],[""], [""], [""]]
 # maximum 3 lines height
