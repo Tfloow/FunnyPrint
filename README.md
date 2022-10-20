@@ -3,5 +3,5 @@
 ___
 Here is an example:
 
-![hello world through the command line](https://www.github.com/Tfloow/FunnyPrint/blob/main/Hello.png)
+![hello world through the command line](https://github.com/Tfloow/FunnyPrint/blob/main/Hello.png?raw=true)
 ___
