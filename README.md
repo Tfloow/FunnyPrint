@@ -3,5 +3,5 @@
 ___
 Here is an example:
 
-![hello world through the command line](C:\Users\thoma\PycharmProjects\pythonProject2\FunnyPrint\Hello.png)
+![hello world through the command line](https://www.github.com/Tfloow/FunnyPrint/blob/main/Hello.png)
 ___
